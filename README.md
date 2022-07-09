@@ -8,37 +8,37 @@ description: Wing of Misadventure Blockchain Template General Information
 
 ## Introduction
 
-Wing of Misadventure is a metaverse based on the world of Misadventure, originally written by Allyson S.B, the main idea of ​​the project is to create multiple game series based on the universe and make it possible for players to dictate an economy based on crypto tokens.
+Wing of Misadventure é um metaverso baseado no mundo de Misadventure, originalmente escrito por Allyson S.B, a ideia principal do projeto é criar várias séries de jogos baseados no universo e possibilitar que os jogadores ditem uma economia baseada em criptomoedas.
 
-We believe that we can be an MMO where the ecosystem doesn't just depend on new people joining P2E, but people who have fun with the game sustaining the ecosystem.
+Acreditamos que podemos ser um MMO onde o ecossistema não depende apenas de novas pessoas se juntando ao P2E, mas também de pessoas que se divertem com o jogo ajudando a sustentar o ecossistema.
 
-We truly believe that:
+Nós realmente acreditamos que:
 
-_The formula is not GameFi, it's CryptoFi._
+_A fórmula não é GameFi, é CryptoFi_
 
-#### A charming collection
+#### Uma coleção encantadora
 
-The NFTs in Wing of Misadventure will be mandatory to participate in P2E, but they are also beautiful assets with limited supply, each collection will be part of a season and you can always show it in the game.
+Os NFTs em Wing of Misadventure serão obrigatórios para participar do P2E, mas também são belos ativos com ofertas limitadas, cada coleção fará parte de uma temporada e você sempre poderá mostrá-la no jogo.
 
-#### The need to be a real game
+#### A necessidade de ser um jogo real
 
-F2P players are an essential part of the ecosystem, Misadventure's economy doesn't just revolve around new P2E entries, but also F2P players who enjoy the game and buy skins and utilities in our store, for that to happen, Wing of Misadventure must be a real game, not just a pretense.
+Jogadores F2P são uma parte essencial do ecossistema, a economia de Misadventure não gira apenas em torno de novas entradas de jogadores P2E, mas também de jogadores F2P que gostam do jogo e compram visuais e serviços em nossa loja. Mas para isso acontecer, Wing of Misadventure precisa ser um jogo real, não apenas uma pretensão.
 
-#### A fair game for investors and F2P players
+#### Um jogo justo para investidores e jogadores F2P
 
-Investors can participate in dungeons that will give rewards like NFTs and coins, but NFTs will not give strength perks in the game, only visual perks. F2P players can farm rare items and trade for $MISAD in-game. F2P players can’t farm $MISAD.
+Os investidores podem participar de masmorras que darão recompensas como NFTs e moedas, mas os NFTs não darão vantagens de força no jogo, apenas vantagens visuais. Os jogadores F2P podem adquirir itens raros e trocá-los por $MISAD no jogo, mas não poderão farmar $MISAD diretamente.
 
-#### A E-SPORT MMO
+#### Um MMO de E-Sport
 
-With a true PVP mode where your skills matter, everyone will be able to sign up for the PVP mode and reap rewards as long as they pay the $MISAD fee.
+Com um verdadeiro modo PVP onde suas habilidades realmente importam, todos poderão se inscrever no modo competitivo e conseguir recompensas, desde que paguem a taxa de $MISAD.
 
-#### Infinite possibilities
+#### Infinitas Possibilidades
 
-An MMORPG can branch out into so many game modes and systems that Wing of Misadventure will never fail to be updated and the economy will always be renewing itself with the evolution of blockchains.
+Um MMORPG pode se ramificar em tantos modos de jogo e sistemas que Wing of Misadventure nunca deixará de ser atualizado e a economia estará sempre se renovando com a evolução das blockchains.
 
-### Social media general information
+### Informações gerais de redes sociais
 
-| Channel   | Link                                                                                           |
+| Canal   | Link                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------- |
 | Website   | [https://wingofmisadventure.4tabern.com/](https://wingofmisadventure.4tabern.com/)             |
 | Medium    | [https://medium.com/@wingofmisadventure](https://medium.com/@wingofmisadventure)               |
