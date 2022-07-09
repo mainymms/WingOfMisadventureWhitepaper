@@ -14,7 +14,7 @@ Acreditamos que podemos ser um MMO onde o ecossistema não depende apenas de nov
 
 Nós realmente acreditamos que:
 
-_A fórmula não é GameFi, é CryptoFi_
+_A fórmula não é GameFi, é CryptoFi._
 
 #### Uma coleção encantadora
 
