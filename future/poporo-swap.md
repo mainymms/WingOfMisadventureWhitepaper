@@ -1,6 +1,6 @@
-# Poporo Swap
+# Troca de Poporo
 
-Inspired by our most iconic monster, Misad Chain will feature Poporo Swap, a swap with financial stake trading functions that will work within the [Misad Chain.](misad-blockchain.md)\
+Inspirado em nosso monstro mais icônico, o Misad Chain apresentará a Troca do Poporo, uma troca com funções de negociação de participação financeira que funcionará dentro do [Misad Chain.](misad-blockchain.md)\
 
 
 ![](<../.gitbook/assets/image (29).png>)
