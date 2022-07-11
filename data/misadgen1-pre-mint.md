@@ -1,6 +1,6 @@
 # MISADGEN1 pre-mint
 
-The game database was populated on **05/13/2022** with the following attributes for each NFT:
+O banco de dados do jogo foi preenchido em **13/05/2022** com os seguintes atributos para cada NFT:
 
 {% file src="../.gitbook/assets/immutable (1) (1).pdf" %}
 
