@@ -1,13 +1,13 @@
-# Rent
+# Aluguel
 
-You will be able to rent equipment and pets for players to use for a certain period of time.
+Você poderá alugar equipamentos e animais de estimação para os jogadores usarem por um determinado período de tempo.
 
-It works as follows:
+Funciona da seguinte forma:
 
-\-A user who owns an NFT puts it up for rent on our website, and a player can rent the NFT for free for a specified amount of days
+\-Um usuário que possui um NFT o coloca para alugar em nosso site, e um jogador pode alugar o NFT gratuitamente por um determinado período de tempo
 
-\-The daily farm of the player who rented the NFT is shared with the owner.
+\-O farm diário do jogador que alugou o NFT é compartilhada com o proprietário.
 
-\-At the end the owner of the NFT gives an evaluation for the player's service.
+\-No final o dono do NFT faz uma avaliação do serviço do jogador.
 
-\-Players with good ratings have priority to rent again.
+\-Jogadores com boas classificações têm prioridade para alugar novamente.
