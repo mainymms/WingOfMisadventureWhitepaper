@@ -1,19 +1,19 @@
 # PVP
 
-PVP mode is a big focus of Misadventure, competitiveness is what drives us! And to promote this there will be the following game modes:
+O modo PVP é um grande foco de Misadventure, competitividade é o que nos move! E para promover isso, haverá os seguintes modos de jogo:
 
-#### Iamai Tournament
+#### Torneio Iamai
 
-A 3v3 match-making mode where winners will be ranked as the best and will be eligible for seasonal rewards.
+Um modo de criação de partidas 3v3 onde os vencedores serão classificados como os melhores e serão elegíveis para recompensas sazonais.
 
-#### Guild vs Guild
+#### Guilda vs Guilda
 
-Players will be able to set up guilds and conquer temples and castles.
+Os jogadores poderão criar guildas e conquistar templos e castelos.
 
-#### Faction vs Faction
+#### Facção vs Facção
 
-Players will be able to choose a faction and constant wars can occur across maps.
+Os jogadores poderão escolher uma facção e guerras constantes podem ocorrer nos mapas.
 
-#### Companion vs Companion
+#### Companheiro vs Companheiro
 
-A battle mode where pets battle each other!
+Um modo de batalha onde os animais de estimação lutam entre si!
