@@ -1,16 +1,16 @@
-# Wing Shop
+# Loja Wing
 
-There will be a non-NFT and non-player-driven store where the development team will release items such as Skins, in-game services and other useful prospects for players, in this store we will have things like:
+Haverá uma loja não NFT e não dirigida a jogadores onde a equipe de desenvolvimento lançará itens como Skins, serviços in-game e outros prospectos úteis para os jogadores, nesta loja teremos coisas como:
 
 \-Skins
 
-\-Avatar release
+\-Lançamento de avatar
 
-\-Non-NFT companions
+\-Companheiros não NFT
 
-\-Services like changing avatar, changing name, changing guild name and other simple changes.
+\-Serviços como mudança de avatar, mudança de nome, mudança de nome de guilda e outras mudanças simples.
 
-The currency used in this store is $MISAD, 10% of the amount collected by the store is burned monthly, 80% goes to the community treasury and 10% goes to the development team.
+A moeda utilizada nesta loja é $MISAD, 10% do valor arrecadado pela loja é queimado mensalmente, 80% vai para o tesouro da comunidade e 10% vai para a equipe de desenvolvimento.
 
 
 
