@@ -1,3 +1,3 @@
-# Exchange
+# Troca
 
-Eventually we want Misad to be able to exchange cryptos to fiat directly without using a bridge to other networks.
+Eventualmente, queremos que a Misad possa trocar criptomoedas por moeda fiduciária diretamente sem usar uma ponte para outras redes.
