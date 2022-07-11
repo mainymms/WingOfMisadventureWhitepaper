@@ -1,12 +1,12 @@
-# Guilds
+# Guildas
 
-Players will be able to create guilds and dominate territories, guilds will gain from the loot of the dominated territory:
+Os jogadores poderão criar guildas e dominar territórios, as guildas ganharão com o saque do território dominado:
 
-\-A percentage of the tamas dropped in the territory.
+\-Uma porcentagem dos tamas dropados no território.
 
-\-A small chance to get items dropped in the territory.
+\-Uma pequena chance de obter itens dropados no território.
 
-The territory can be attacked by dungeon monsters and other guilds, so having members always active to defend the territory will be important.
+O território pode ser atacado por monstros de masmorras e outras guildas, então ter membros sempre ativos para defender o território será importante.
 
-Guild creation will cost [$MISAD](../play-to-earn/usdmisad.md).
+A criação da guilda custará [$MISAD](../play-to-earn/usdmisad.md).
 
