@@ -1,13 +1,13 @@
-# Progression
+# Progressão
 
-Whenever you create a new character, it starts at level 1.
+Sempre que você cria um novo personagem, ele começa no nível 1.
 
-Defeating monsters, completing quests or special events grants experience, which eventually increases your character's level.
+Derrotar monstros, completar missões ou eventos especiais concede experiência, o que eventualmente aumenta o nível do seu personagem.
 
-When you level up, you gain:
+Ao subir de nível, você ganha:
 
-\-Status increase, which makes your character stronger
+\-Aumento de status, o que torna seu personagem mais forte
 
-\-Skill points that allow you to unlock active and passive skills.
+\-Pontos de habilidade que permitem desbloquear habilidades ativas e passivas.
 
-\-You will be able to equip stronger equipment
+\-Você será capaz de equipar equipamentos mais fortes
