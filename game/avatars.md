@@ -1,6 +1,6 @@
 # Avatars
 
-Avatars are characters that you can use in the game, each avatar has 8 skills and 3 passives that define your battle style. They represent you in Misadventure.
+Avatars são personagens que você pode usar no jogo, cada avatar possui 8 habilidades e 3 passivas que definem seu estilo de batalha. Eles representam você em Misadventure.
 
 #### Arthur
 
@@ -14,7 +14,7 @@ Avatars are characters that you can use in the game, each avatar has 8 skills an
 
 ![](<../.gitbook/assets/image (5).png>)
 
-#### _More avatars will be released over time and will be listed here!_
+#### _Mais avatars serão lançados ao longo do tempo e serão listados aqui!_
 
 
 
