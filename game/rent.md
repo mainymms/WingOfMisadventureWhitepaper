@@ -1,4 +1,4 @@
-# Aluguel
+# Alugar
 
 Você poderá alugar equipamentos e animais de estimação para os jogadores usarem por um determinado período de tempo.
 
