@@ -1,19 +1,19 @@
 # Misad Blockchain
 
-We want to become our own network with our own Wallet focused on developing the Misadventure metaverse through other initiatives and projects.
+Queremos nos tornar nossa própria rede com nossa própria Wallet focada no desenvolvimento do metaverso Misadventure por meio de outras iniciativas e projetos.
 
-In this network, [$MISAD](misad-blockchain.md#also-functional-for-developers) is the main currency and is used as the gas rate.
+Nesta rede, [$MISAD](misad-blockchain.md#also-functional-for-developers) é a moeda principal e é usada como a taxa de gás.
 
-## A place where every game developer can release a token for free.
+## Um lugar onde todo desenvolvedor de jogos pode lançar um token gratuitamente.
 
-We will offer a platform where every game developer can customize a token and create it in their own way without programming knowledge, the token will only work on Misad Chain.
+Vamos oferecer uma plataforma onde cada desenvolvedor de jogos pode customizar um token e criá-lo à sua maneira sem conhecimento de programação, o token só funcionará no Misad Chain.
 
-We will be adding optional functions constantly so that everyone can create the token in the best way.
+Estaremos adicionando funções opcionais constantemente para que todos possam criar o token da melhor maneira.
 
-## Also functional for Developers
+## Também funcional para desenvolvedores
 
-Don't want to use the customization offered by us? No problem, you can create the token your own way too.
+Não quer usar a personalização oferecida por nós? Não tem problema, você também pode criar o token do seu jeito.
 
-## Bridge to all networks&#x20;
+## Ponte para todas as redes&#x20;
 
-You will be able to export your token to the network you prefer.
+Você poderá exportar seu token para a rede de sua preferência.
