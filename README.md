@@ -6,7 +6,7 @@ description: Wing of Misadventure Blockchain Template General Information
 
 ![Lyaloto Goddess](<.gitbook/assets/image (22).png>)
 
-## Introduction
+## Introdução
 
 Wing of Misadventure é um metaverso baseado no mundo de Misadventure, originalmente escrito por Allyson S.B, a ideia principal do projeto é criar várias séries de jogos baseados no universo e possibilitar que os jogadores ditem uma economia baseada em criptomoedas.
 
