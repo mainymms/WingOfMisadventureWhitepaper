@@ -2,36 +2,36 @@
 
 ![](<../.gitbook/assets/image (12).png>)
 
-The faction system existed in all old versions of the Misadventure universe, that's because the world of Misadventure is in constant war and the center of everything revolves around two cities: Lilia and Lotos.\
+O sistema de facções existia em todas as versões antigas do universo Misadventure, isso porque o mundo de Misadventure está em constante guerra e o centro de tudo gira em torno de duas cidades: Lilia e Lotos.\
 \
-In this new game we bring the faction war system, where players of the same faction will work together to defeat the enemy faction.
+Neste novo jogo trazemos o sistema de guerra de facções, onde jogadores de uma mesma facção trabalharão juntos para derrotar a facção inimiga.
 
-## Selecting the Faction <a href="#48fb" id="48fb"></a>
+## Selecionando a facção <a href="#48fb" id="48fb"></a>
 
-Unlike the old 2.0 version of the game, you will be able to choose your faction in character creation, this means that the faction is no longer linked to the avatar.
+Ao contrário da antiga versão 2.0 do jogo, você poderá escolher sua facção na criação do personagem, isso significa que a facção não está mais vinculada ao avatar.
 
-Members of enemy factions cannot perform some interactions with each other such as:
+Membros de facções inimigas não podem realizar algumas interações entre si, como:
 
-* Join the same party
-* Join the same guild
+* Juntar-se ao mesmo grupo
+* Juntar-se a mesma guilda
 
-## Faction Switch <a href="#0726" id="0726"></a>
+## Troca de facção <a href="#0726" id="0726"></a>
 
-You can pay a $MISAD fee to change your character's faction.
+Você pode pagar uma taxa de $MISAD para mudar a facção do seu personagem.
 
 ## PVP <a href="#c730" id="c730"></a>
 
-Misadventure's open PVP revolves around factions, you can attack anyone, but defeating players from the same faction as yours will bring you severe penalties, the player's death so should be worth it.
+O PVP aberto de Misadventure gira em torno de facções, você pode atacar qualquer um, mas derrotar jogadores da mesma facção que a sua trará penalidades severas, então a morte do jogador deve valer a pena.
 
-## Dispute <a href="#6cb1" id="6cb1"></a>
+## Disputa <a href="#6cb1" id="6cb1"></a>
 
-Faction events will be constantly organised, for example:\
-\-Faction that finished the most dungeons\
-\-Faction that created the most items\
-\-Faction that defeated the most enemies of the opposing faction\
+Eventos de facção serão constantemente organizados, por exemplo:\
+\-Facção que terminou o maior número de masmorras\
+\-Facção que criou mais itens\
+\-Facção que derrotou o maior número de inimigos da facção adversária\
 \
-Among other disputes that will bring temporary benefits to factions.
+Entre outras disputas que trarão benefícios temporários às facções.
 
-## Future <a href="#d9b0" id="d9b0"></a>
+## Futuro <a href="#d9b0" id="d9b0"></a>
 
-A system of government where the faction can elect a leader who will dictate the path of war.
+Um sistema de governo onde a facção pode eleger um líder que ditará o caminho da guerra.
