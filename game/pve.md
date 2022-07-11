@@ -12,28 +12,28 @@ Chihiro 3D model fighting test
 Arthur 3D model fighting test
 {% endembed %}
 
-There will be many objectives to be conquered in Misadventure and the chosen objective must suit the player's style of play:
+Haverá muitos objetivos a serem conquistados em Misadventure e o objetivo escolhido deve se adequar ao estilo de jogo do jogador:
 
-#### Story
+#### História
 
-In Misadventure, you can follow the story to find out about the game's world, the story mode can give you important rewards to increase your character's strength.
+Em Misadventure, você pode acompanhar a história para conhecer o mundo do jogo, o modo história pode lhe dar recompensas importantes para aumentar a força do seu personagem.
 
 #### Farm
 
-You will be able to spend your time defeating monsters and getting items and coins, weak monsters give low rewards, but in excess they can be worth a lot.
+Você poderá gastar seu tempo derrotando monstros e obtendo itens e moedas, monstros fracos dão recompensas baixas, mas em excesso podem valer muito.
 
-#### Dungeons
+#### Masmorras
 
-There are dungeons for P2E players that can award $MISAD and NFTs, for F2P players there is no chance of dropping $MISAD or Remnants, but there are F2P dungeons with low chance of dropping NFT Goddess equipment.
+Existem masmorras para jogadores P2E que podem conceder $MISAD e NFTs, para jogadores F2P não há chance de dropar $MISAD ou Remanescentes, mas existe uma pequena chance de dropar equipamentos NFT da deusa.
 
 
 
-#### BOT Policy
+#### Política de BOT
 
-It is important to our ecosystem that BOTS do not exist, so the following must be done:
+É importante para o nosso ecossistema que os BOTS não existam, então o seguinte deve ser feito:
 
-\-A large group of moderators must follow the game and the players.&#x20;
+\-Um grande grupo de moderadores deve acompanhar o jogo e os jogadores..&#x20;
 
-\-Monsters with relevant rewards should be hard to defeat.&#x20;
+\-Monstros com recompensas relevantes devem ser difíceis de derrotar.&#x20;
 
-\-Accounts that automate actions should be banned.
+\-Contas que automatizam ações devem ser banidas.
