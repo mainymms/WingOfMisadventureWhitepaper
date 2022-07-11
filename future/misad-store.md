@@ -1,31 +1,31 @@
-# Misad Store
+# Loja de Misad
 
-Misad Store will function as a cryptocurrency-based game store, developers will be able to place their games on Misad Store and get new users/buyers. Misad Store keeps **5%\~15%** of all sales made on our platform.
+A Loja de Misad funcionará como uma loja de jogos baseada em criptomoeda, os desenvolvedores poderão colocar seus jogos na Loja de Misad e obter novos usuários/compradores. A Loja de Misad mantém **5%\~15%** de todas as vendas feitas em nossa plataforma.
 
-The entire sale is processed by us and split between the developer automatically.
+Toda venda é processada por nós e dividida entre o desenvolvedor automaticamente.
 
-## Fund Raising
+## Arrecadamento de Fundos
 
-Gaming teams verified by us will be able to offer tokens created in Misad Chain to fund projects.
+As equipes de jogos verificadas por nós poderão oferecer tokens criados na Misad Chain para financiar projetos.
 
-## Indie developer incentive&#x20;
+## Incentivo para desenvolvedores independentes&#x20;
 
-Misad Games will help developers launch projects on Misad Chain.
+A Misad Games ajudará os desenvolvedores a lançar projetos na Misad Chain.
 
-Misad Store will provide:
+A Loja de Misad fornecerá:
 
-Advertising
+Publicidade
 
-Platform
+Plataforma
 
-Technical consultation
+Consultoria técnica
 
-Advices
+Conselhos
 
-Launch support
+Suporte de lançamento
 
-And everything else the developer might need! We believe that indie developers have a lot of potential!
+E tudo mais que o desenvolvedor precisar! Acreditamos que os desenvolvedores independentes têm muito potencial!
 
-## Everything is charged in MISADUSD
+## Tudo é cobrado em MISADUSD
 
-Everything at the Misad Store is billed at the equivalent of the Misad Chain Network Dollar
+Tudo na Loja de Misad é cobrado equivalente ao dólar da rede Misad Chain.
