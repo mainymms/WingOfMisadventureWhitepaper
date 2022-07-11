@@ -1,92 +1,95 @@
 # NFTs
 
-There will initially be three types of NFT in the Misadventure metaverse:
+Haverá inicialmente três tipos de NFTs no metaverso de Misadventure:
 
-### Divine Remnants
+### Resquícios Divinos
 
 ![NFT MISADGEN1](<../.gitbook/assets/MISADGEN1 (1).png>)
 
-These are creatures that represent the will of the gods and pets that you can equip and that will allow you to enter dungeons where there is a chance to drop $MISAD and other NFTs. Remnants are not stronger than non-NFT pets, but they do give great stats.
+Estas criaturas representam a vontade dos deuses e são companheiros que você pode equipar e que permitirão que você entre em masmorras, onde há a chance de dropar $MISAD e outros NFTs. Resquícios não são mais fortes do que os companheiros não NFTs, mas fornecem ótimos atributos.
 
-#### There are 7 types of Remnants elements:
+#### Existem 7 tipos de elementos Resquícios:
 
-Fire
+Fogo
 
-Water
+Água
 
-Earth
+Terra
 
-Wind
+Vento
 
-Light
+Luz
 
-Dark
+Escuro
 
-Beast
+Besta
 
-#### And 4 types of rarities:
+#### E 4 Tipos de raridades:
 
-Common
+Comum
 
-Uncommon
+Incomum
 
-Rare
+Raro
 
-Divine
+Divino
 
-#### The element affects the bonuses the Remnant will have in a given dungeon or day, the rarity increases the NFT and $MISAD drop chances:
+#### Os elementos afetam os bônus que os Resquícios terão em um determinado dia ou em uma masmorra, a raridade aumenta as chances de drop de NFT e $MISAD:
 
-Common: 0% bonus
+Comum: bônus de 0%
 
-Uncommon: 10% bonus
+Incomum: bônus de 10%
 
-Rare: 25% bonus
+Raro: bônus de 25%
 
-Divine: 50% bonus
+Divino: bônus de 50%
 
-### Goddess Equipment
 
-These are equipment with rarity above transcendent that can be turned into NFTs.
+### Equipamento da Deusa
 
-_\*Players will have the option to turn any in-game item into NFT by paying a $MISAD fee_
+São equipamentos com raridade acima do transcendente que podem ser transformados em NFTs.
 
-### Lands
+_\*Os jogadores terão a opção de transformar qualquer item do jogo em NFT pagando uma taxa de $MISAD_
+
+### Terras
 
 ![Wing of Misadventure Land](<../.gitbook/assets/image (11).png>)
 
-Players will be able to have Lands where they can grow fruits, train pets and battle monsters.
+Os jogadores poderão ter terrenos onde podem cultivar frutas, treinar seus pets e combater monstros.
 
-Everyone will be able to enter other players' lands and defeat monsters or even face bosses in player lands.
+Todos poderão entrar no terreno de outros jogadores e derrotar monstros ou até mesmo enfrentar chefes.
 
-All enemies defeated or resources collected generate resources that go to the landowner.
+Todos os inimigos derrotados e materiais coletados geram recursos que vão para o proprietário do terreno.
 
-**Main advantages of having a Land:**
+**Principais vantagens de ter um Terreno:**
 
-\-Constant generation of resources with the visit of players&#x20;
+\-Geração constante de recursos com a visita de outros jogadores&#x20;
 
-\-Pets breeding training, obtaining NFT pets
+\-Treinamento de criação de animais de estimação, obtenção de animais de estimação NFT
 
-\-Obtaining fruits, plants, food and other types of crafting materials&#x20;
+\-Obtenção de frutas, plantas, alimentos e outros tipos de materiais de fabricação&#x20;
 
-\-$MISAD can be obtained by interacting with your own land
+\-$MISAD podem ser obtidos interagindo com seu proprio terreno
 
-**There will also be the following rarities of lands:**
+**Haverá também as seguintes raridades de terras:**
 
-Common
+Comum
 
-Uncommon
+Incomum
 
-Rare
+Raro
 
-Divine
+Divino
 
-**Rarity mainly represents the size of the land, which consequently increases the number of resources obtained:**
 
-Common: size 1x
+**A raridade representa principalmente o tamanho da terra, o que consequentemente aumenta o número de recursos obtidos:**
 
-Uncommon: size 1.25x
+Comum: tamanho 1x
 
-Rare: size 1.5x
+Incomum: tamanho 1,25x
 
-Divine: size 2.0x
+Raro: tamanho 1,5x
+
+Divino: tamanho 2.0x
+
 
