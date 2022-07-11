@@ -1,6 +1,6 @@
 # Loja Wing
 
-Haverá uma loja não NFT e não dirigida a jogadores onde a equipe de desenvolvimento lançará itens como Skins, serviços in-game e outros prospectos úteis para os jogadores, nesta loja teremos coisas como:
+Haverá uma loja não NFT que não será dirigida por jogadores onde a equipe de desenvolvimento lançará itens como Skins, serviços in-game e outros prospectos úteis para os jogadores, nesta loja teremos coisas como:
 
 \-Skins
 
