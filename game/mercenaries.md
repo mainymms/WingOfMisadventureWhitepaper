@@ -1,6 +1,6 @@
-# Mercenaries
+# Mercenários
 
-In Misadventure you can hire other players to carry out dungeons with you, if you still don't have the strength to defeat an enemy, you can offer part of the loot to a mercenary (another player) who will help you finish the dungeon.
+Em Misadventure você pode contratar outros jogadores para realizar calabouços com você, caso ainda não tenha forças para derrotar um inimigo, você pode oferecer parte do saque a um mercenário (outro jogador) que o ajudará terminar a masmorra.
 
 
 
