@@ -2,103 +2,104 @@
 
 ![$MISAD coin](<../.gitbook/assets/image (21).png>)
 
-**Misad Economic Loop model**
+**Modelo de Loop Econômico Misad**
 
 ![](<../.gitbook/assets/image (32).png>)
 
-## Introduction&#x20;
+## Introdução&#x20;
 
-Wing of Misadventure will create an environment where players can share Free-To-Play and Play-To-Earn space in a healthy way, without assigning the Pay-To-Win factor, this will be done as follows:
+Wing of Misadventure irá criar um ambiente onde os jogadores poderão compartilhar espaço Free-To-Play e Play-To-Earn de forma saudável, sem atribuir o fator Pay-To-Win, isso será feito da seguinte forma:
 
-\-Everyone can play and explore the game for free, including getting rare items.&#x20;
+\-Todos podem jogar e explorar o jogo gratuitamente, incluindo a obtenção de itens raros.&#x20;
 
-\-Features that allow you to farm NFTs and $MISAD do not assign strength
+\-Recursos que permitem farmar NFTs e $MISAD não atribuirão força.
 
-#### Using this as a main rule the $MISAD will be the following use cases:
+#### Usando isso como regra principal, o $MISAD terá as seguintes formas de uso:
 
-\-NFT Mint to farm $MISAD and other NFTs&#x20;
+\-NFT Mint para farmar $MISAD e outros NFTs;&#x20;
 
-\-Purchase items in the [Wing Shop](../game/wing-shop.md).&#x20;
+\-Compre itens na [Loja Wing](../game/wing-shop.md).&#x20;
 
-\-Registration for championships and events.&#x20;
+\-Inscrições para campeonatos e eventos;&#x20;
 
-\-Fee for entering dungeons that give NFTs as rewards&#x20;
+\-Taxas para entrar em masmorras que darão $MISAD e NFTs como recompensas;&#x20;
 
-\-You will be able to trade $MISAD through the trade window with other players&#x20;
+\-Você poderá negociar $MISAD através da janela de negociação com outros jogadores;&#x20;
 
-\-Stake $MISAD with fair APR
+\-Stake de $MISAD com APR justo;
 
-\-Future partnerships with other projects may encourage the token to be used in other cryptocurrency sectors
+\-Parcerias com outros projetos podem incentivar o uso do token em outros setores de criptomoedas;
 
-\-Others yet to be defined in the future (check[ Misad Blockchain](../future/misad-blockchain.md))
+\-Outros ainda a definir. (check[ Misad Blockchain](../future/misad-blockchain.md))
 
-Each $MISAD transaction will have a 3% fee where 100% of the fee is burned weekly, making $MISAD a deflationary currency.
+Cada transação $MISAD terá uma taxa de 3%, onde 100% da taxa será queimada semanalmente, tornando $MISAD uma moeda deflacionária.
 
-#### Burning
+#### Queima
 
-Part of the coin is burned whenever:
+Parte da moeda é queimada sempre que:
 
-\-Players make a trade with another player
+\-Os jogadores fazem uma troca com outro jogador;
 
-\-A purchase is made on the market
+\-Uma compra é feita no marketplace;
 
-\-A player mint or renews an NFT (in which case 5% is burned)
+\-Um jogador fizer mint ou renovar um NFT (nesse caso, 5% será queimado);
 
-\-A player enters a dungeon
+\-Um jogador entrar em uma masmorra;
 
-\-A player signs up for a tournament or event
+\-Um jogador se inscrever para um torneio ou evento.
 
-This makes everyone end up contributing to token deflation.
 
-#### F2P players contribute to the ecosystem in the following ways:&#x20;
+Isso faz com que todos acabem contribuindo para a deflação do token.
 
-\-Purchase skins or any items from the in-game store&#x20;
+#### Os jogadores F2P contribuem para o ecossistema das seguintes maneiras:&#x20;
 
-\-Participating in tournaments and events&#x20;
+\-Comprando visuais ou qualquer item na loja do jogo;
 
-\-Trading with other players&#x20;
+\-Participando de torneios e eventos;
 
-\-Making purchases on the marketplace
+\-Negociando com outros jogadores;
 
-\-Becoming an audience for the project and a possible word spreader
+\-Efetuando compras no marketplace;
 
-#### The reward pool will also decrease with each cycle
+\-Tornando-se um público com potencial de divulgação.
 
-With the constant deflation of the token, the reward pool will be equitably reduced to keep Play-To-Earn's APR healthy and prevent token dumps in the market. It also means that it doesn't matter if you enter at the beginning of the project or in the future, holding is always an interesting option.
+#### A pool de recompensas também diminuirá a cada ciclo
 
-#### _Do we always depend on new people coming in? No! Just people having fun. We can have a healthy economy if there are people in the community who play the game because it's a game._
+Com a constante deflação do token, a pool de recompensas será reduzida de forma equitativa para manter a APR do Play-To-Earn saudável e evitar despejos do token no mercado. Isso significa que não importa se você entra no início do projeto ou no futuro, "hold" sempre será uma opção interessante.
 
-#### No need to pay a fee to use the token in-game!&#x20;
+#### _O jogo depende da chegada de pessoas novas? Não! Apenas de pessoas se divertindo. Podemos ter uma economia saudável se houver pessoas na comunidade que joguem por entretenimento._
 
-$MISAD needs to be deposited in the game to be used, the token charge is done within the game without using gas.
+#### Não há necessidade de pagar uma taxa para usar o token no jogo!&#x20;
 
-### Token Mechanics
+$MISAD precisa ser depositado no jogo para ser usado, a cobrança do token é feita dentro do jogo sem usar gás.
 
-#### 6.8% fee on every out-of-game transaction
+### Mecânica dos tokens
 
-Each transaction made outside the game charges a **4.8% fee** that goes directly to the [community treasury](../community-treasure.md).
+#### Taxa de 6,8% em cada transação fora do jogo
 
-#### _1% is automatically reserved for liquidity as follows:_
+Cada transação feita fora do jogo cobra uma taxa de **4.8% fee** que vai diretamente para o [tesouro da comunidade](../community-treasure.md).
 
-The contract reserves 1% in its own token balance until it reaches a specific amount of tokens, the amount can be queried in BscScan by the variable numTokensSellToAddToLiquidity
+#### _1% é automaticamente reservado para liquidez da seguinte forma:_
 
-When the amount is reached, the contract takes the following steps:
+O contrato reserva 1% em seu próprio saldo de tokens até atingir uma quantidade específica de tokens, o valor pode ser consultado no BscScan pela variável numTokensSellToAddToLiquidity
 
-\-Swap half of the tokens for BNB
+Quando o valor é atingido, o contrato segue as seguintes etapas:
 
-\-Adds the BNB and remaining tokens in the liquidity.
+\-Troque metade dos tokens por BNB
 
-The contract does not calculate price changes, therefore, there is a BNB margin from the impact of selling half of the tokens that is not included in the liquidity and remains in the contract, whenever the BNB balance of the contract reaches 0.01, the contract uses the BNB to buyback $MISAD, and sends the $MISAD to the community treasury.
+\-Adiciona o BNB e os tokens restantes na liquidez.
 
-#### _**1% will be distributed to all holders.**_
+O contrato não calcula as variações de preço, portanto, há uma margem BNB do impacto da venda de metade dos tokens que não está incluído na liquidez e permanece no contrato, sempre que o saldo de BNB do contrato atingir 0,01, o contrato usa o BNB para recomprar $MISAD, e envia o $MISAD para o tesouro comunitário.
 
-## **T**emporary fee
+#### _**1% será distribuído a todos os holders.**_
 
-The token fees will be progressively reduced over the months and years as $MISAD slowly links up with other metaverse projects.
+## **T**axa temporária
 
-## $TAMAS tax to move $MISAD
+As taxas de token serão progressivamente reduzidas ao longo dos meses e anos, à medida que o $MISAD se conecta lentamente com outros projetos do metaverso.
 
-To transfer $MISAD from the game to your wallet or to carry out $MISAD trades within the game, you need to pay a fee of [$TAMAS](usdtamas.md)
+## Taxa de $TAMAS para mover $MISAD
+
+Para transferir $MISAD do jogo para sua carteira ou para realizar negociações de $MISAD dentro do jogo, você precisa pagar uma taxa de [$TAMAS](usdtamas.md)
 
 ![Ícone "Verificada pela comunidade"](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAABDUlEQVR4AYXRgUZDYRjH4TegFTKgpEqiFJgoWAoMEQGBgBboChaaAKxLKAhAhQqAdAmpBIQolkCFqp2nITvNKXuA7+/Hhzey5OWjE4Nq3rzY1f9/NGHPB549492+8Ww060iCS2XdctZdI3GsECmb+HJoIX6x6EgDm+lURTH+YB7V9nAqE5WNme4YKuOiY6iMe6PaQxUUIuTbswgFVNJwA8sO3Bn6yR6bWZMSNtJwDtuWfHpQxaPx9C9zadil7jrCigbq6UXceNIVKTWUIqypm2ytJdTiNyNeXclF6GttOVfeDEc7qzjR23r3OMFqZKng1kw0mXGLrfibHTScOZWgGv9TdC6ROFeMTgwYiIxvJzMRWQbeGZUAAAAASUVORK5CYII=)\
 
