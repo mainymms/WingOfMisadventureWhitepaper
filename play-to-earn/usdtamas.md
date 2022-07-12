@@ -2,32 +2,33 @@
 
 ![$TAMAS coin](<../.gitbook/assets/image (3).png>)
 
-$TAMAS is a token with unlimited supply that everyone can farm in-game by defeating monsters and completing quests. This currency is completely community driven and has some in-game uses (non-nft) like:
+$TAMAS é um token com suprimento ilimitado que todos podem farmar no jogo derrotando monstros e completando missões. Essa moeda é totalmente orientada pela comunidade e tem alguns usos no jogo (não-nft), como:
 
-\-Repair equipments
+\-Reparo de equipamentos
 
-\-Upgrade equipments
+\-Aprimorar equipamentos
 
-\-Upgrade characters
+\-Aprimorar personagens
 
-\-NPCs shops
+\-Lojas NPCs
 
-\-Player shops
+\-Lojas de jogadores
 
-\-Fee on $MISAD transactions
+\-Taxa sobre transações $MISAD
 
-\-$MISAD withdrawal fee
+\-$MISAD taxa de saque
 
-\-Usage fee for in-game services like item deposit, global chat messages, guild creation, guild maintenance and etc.
+\-Taxa de uso para serviços no jogo, como depósito de itens, mensagens de bate-papo globais, criação de guildas, manutenção de guildas e etc.
 
-The price of $TAMAS is completely player driven.
 
-#### There are some rules for getting monster tamas:
+O preço de $TAMAS é completamente controlado pelo jogador.
 
-\-The defeated monster must have the same strength level as you.
+#### Existem algumas regras para obter tamas dos monstros:
 
-\-The battle must be challenging.
+\-O monstro derrotado deve ter o mesmo nível de força que você.
 
-## $MISAD tax to mint $TAMAS to your wallet
+\-A batalha deve ser desafiadora.
 
-To transfer $TAMAS from the game to your wallet, you need to pay a fee of [$MISAD](usdmisad.md)
+## Taxa $MISAD para mintar $TAMAS em sua carteira
+
+Para transferir $TAMAS do jogo para sua carteira, você precisa pagar uma taxa de [$MISAD](usdmisad.md)
