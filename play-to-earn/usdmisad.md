@@ -30,7 +30,7 @@ Wing of Misadventure irá criar um ambiente onde os jogadores poderão compartil
 
 \-Parcerias com outros projetos podem incentivar o uso do token em outros setores de criptomoedas;
 
-\-Outros ainda a definir. (check[ Misad Blockchain](../future/misad-blockchain.md))
+\-Outros ainda a definir. (confira[ Misad Blockchain](../future/misad-blockchain.md))
 
 Cada transação $MISAD terá uma taxa de 3%, onde 100% da taxa será queimada semanalmente, tornando $MISAD uma moeda deflacionária.
 
