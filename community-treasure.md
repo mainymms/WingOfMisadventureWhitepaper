@@ -1,19 +1,19 @@
-# 💰 Community Treasure
+# 💰 Tesouro da Comunidade
 
 
 
-It is a fund collected mainly by Ingame-shop and it can only be used to keep the game and community healthy, things like:
+É um fundo coletado principalmente pela loja dentro do jogo e só pode ser usado para manter o jogo e a comunidade saudáveis, coisas como:
 
-\-Organization of events and championships&#x20;
+\-Organização de eventos e campeonatos&#x20;
 
-\-Actions to keep the economy healthy (provide liquidity, buyback, burn, etc)
+\-Ações para manter a economia saudável (fornecer liquidez, recompra, queima, etc)
 
-\-Replacement of the marketing fund in the future&#x20;
+\-Substituição do fundo de marketing no futuro&#x20;
 
-\-Big updates to the game or development purpose&#x20;
+\-Grandes atualizações para o jogo e propósitos de desenvolvimento&#x20;
 
-\-Charity
+\-Caridade
 
-#### Community Treasure Wallet:
+#### Carteira do Tesouro da Comunidade:
 
 [0x31dBcFe9a338e31edc96e6Fb9C8f0319AF8ff98f](https://bscscan.com/address/0x31dBcFe9a338e31edc96e6Fb9C8f0319AF8ff98f)
