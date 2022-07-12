@@ -1,48 +1,48 @@
-# Table of contents
+# Índice
 
 * [Wing of Misadventure](README.md)
-* [💰 Community Treasure](community-treasure.md)
-* [🎮 Retro Version](retro-version.md)
-* [🤖 Team](team.md)
-* [📃 Contracts](contracts.md)
-* [👊 Partners](partners.md)
+* [💰 Tesouro da Comunidade](community-treasure.md)
+* [🎮 Versão Retro](retro-version.md)
+* [🤖 Equipe](team.md)
+* [📃 Contratos](contracts.md)
+* [👊 Parceiros](partners.md)
 * [📺 Trailers](trailers.md)
-* [📚 Language Support](language-support.md)
+* [📚 Suporte de Linguas](language-support.md)
 
-## Play-To-Earn
+## Jogue para ganhar
 
 * [Tokenomics](play-to-earn/tokenomics.md)
 * [$MISAD](play-to-earn/usdmisad.md)
 * [$TAMAS](play-to-earn/usdtamas.md)
 * [NFTs](play-to-earn/nfts.md)
 
-## Game
+## Jogo
 
 * [PVE](game/pve.md)
 * [PVP](game/pvp.md)
-* [Progression](game/progression.md)
-* [Mercenaries](game/mercenaries.md)
-* [Rent](game/rent.md)
-* [Wing Shop](game/wing-shop.md)
+* [Progressão](game/progression.md)
+* [Mercenários](game/mercenaries.md)
+* [Alugar](game/rent.md)
+* [Loja Wing](game/wing-shop.md)
 * [Avatars](game/avatars.md)
-* [Factions](game/factions.md)
-* [Guilds](game/guilds.md)
+* [Facções](game/factions.md)
+* [Guildas](game/guilds.md)
 
-## ROADMAP
+## Roteiro
 
 * [2022](roadmap/2022.md)
 
-## Future
+## Futuro
 
 * [Misad Blockchain](future/misad-blockchain.md)
-* [Misad Store](future/misad-store.md)
-* [Poporo Swap](future/poporo-swap.md)
-* [Exchange](future/exchange.md)
+* [Loja Misad](future/misad-store.md)
+* [Troca Poporo](future/poporo-swap.md)
+* [Troca](future/exchange.md)
 
-## Data
+## Dados
 
 * [MISADGEN1 pre-mint](data/misadgen1-pre-mint.md)
 
-## Study
+## Estudo
 
-* [Sustainability](study/sustainability.md)
+* [Sustentabilidade](study/sustainability.md)
