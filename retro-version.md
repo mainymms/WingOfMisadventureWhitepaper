@@ -1,11 +1,11 @@
 # 🎮 Versão Retro
 
-{% embed url="https://www.youtube.com/watch?t=11s&v=yD7Wb3C7m2o" %}
+{% incorporar url="https://www.youtube.com/watch?t=11s&v=yD7Wb3C7m2o" %}
 
 \
-Wing of Misadventure is a game that has been in development since 2015 and has had many versions (not play-to-earn). We are a team that has been in the field of online games for years without partners or investors and our commitment to always keep Wing evolving with the money the project earns has proven itself over the years.
+Wing of Misadventure é um jogo que está em desenvolvimento desde 2015 e teve muitas versões (não play-to-earn). Somos uma equipe que está no ramo de jogos online há anos sem parceiros ou investidores e nosso compromisso de manter a Wing sempre evoluindo com o dinheiro do proprio jogo se comprovou ao longo dos anos.
 
-## Timeline
+## Linha do Tempo
 
 2015
 
@@ -29,24 +29,24 @@ Wing of Misadventure is a game that has been in development since 2015 and has h
 
 
 
-## Statistics
+## Estatisticas
 
-Steam proves our ability to keep players active without the need for the Play-To-Earn model.
+A Steam prova nossa capacidade de manter os jogadores ativos sem a necessidade do modelo Play-To-Earn.
 
-Amount of players online **AT THE SAME TIME** in the active development period:
+Quantidade de jogadores online **AO MESMO TEMPO** no período de desenvolvimento ativo:
 
-Date | Players Online | Twitch Viewers
+Data | Jogadores Online | Espectadores da Twitch
 
 ![](<.gitbook/assets/image (20).png>)
 
-More info on: [https://steamdb.info/app/677810/graphs/](https://steamdb.info/app/677810/graphs/)
+Mais informações sobre: [https://steamdb.info/app/677810/graphs/](https://steamdb.info/app/677810/graphs/)
 
-## Retro Version
+## Versão Retro
 
-The latest non-play-to-earn version is version 2.0 which we named "Wing of Misadventure Retro". This version will continue on Steam
+A versão mais recente não P2E é a versão 2.0, que chamamos de "Wing of Misadventure Retro". Está versão continuará na Steam
 
-The profits of this version are divided as follows (excluding country taxes):
+Os lucros desta versão são divididos da seguinte forma (excluindo os impostos do país):
 
-\-60% for the development team
+\-60% para a equipe de desenvolvimento
 
-\-40% for the [Community Treasure](community-treasure.md).
+\-40% para o [Tesouro da Comunidade](community-treasure.md).
