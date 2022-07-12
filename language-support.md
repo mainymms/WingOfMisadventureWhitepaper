@@ -1,6 +1,6 @@
-# 📚 Language Support
+# 📚 Suporte de Linguas
 
-**Languages ​​the game will be available in (will be updated as more languages ​​queue up):**
+**Linguas ​​o jogo estará disponível em (será atualizado com o ​​tempo):**
 
 English
 
