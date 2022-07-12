@@ -1,4 +1,4 @@
-# 🎮 Retro Version
+# 🎮 Versão Retro
 
 {% embed url="https://www.youtube.com/watch?t=11s&v=yD7Wb3C7m2o" %}
 
