@@ -1,24 +1,24 @@
-# Sustainability
+# Sustentabilidade
 
-There are specific points that make Wing of Misadventure truly sustainable in an NFT blockchain gaming economy:
+Existem pontos específicos que tornam o Wing of Misadventure verdadeiramente sustentável em uma economia de jogos blockchain NFT:
 
-\-Our focus is on being a real game, so our post-game marketing is fully focused on the F2P audience. This means that we want the number of players who play the game for fun to be greater than the number of players who play the game for profit.
+\-Nosso foco é ser um jogo real, então nosso marketing pós-jogo é totalmente focado no público F2P. Isso significa que queremos que o número de jogadores que jogam por diversão seja maior do que o número de jogadores que jogam por lucro.
 
-\-Investors will receive the profits from the F2P public, this means that the money received by the project will no longer depend on new investors, but on real players.
+\-Os investidores receberão os lucros do público F2P, isso significa que o dinheiro recebido pelo projeto não dependerá apenas de novos investidores, mas também de jogadores reais.
 
-\-Investors are encouraged to help the project grow by just inviting people to play, spreading the word is like helping your own investment.
+\-Os investidores são incentivados a ajudar o projeto a crescer apenas convidando pessoas para jogar, espalhar a palavra é como ajudar seu próprio investimento.
 
-\-The problem of NFTs games in which pyramids arise because the projects do not have the ability to profit without investors ceases to exist from the moment the game is real and moves the entertainment market.
+\-O problema dos jogos NFTs em que surgem pirâmides é que os projetos não têm capacidade de lucrar sem investidores, esse problema deixa de existir a partir do momento que o jogo é real e movimenta o mercado de entretenimento.
 
-\-The play-to-win factor will be encouraged but the number of tokens distributed by P2E will never be more than the game's treasure can pay, so rewards are set based on the game's growth, the more the game grows in the market, the more investors win. There is no reason to encourage investors to enter with promises of quick gains, we must conquer the gaming market, not the betting market.
+\-O fator play-to-win será incentivado, mas o número de tokens distribuídos pelo P2E nunca será maior do que o tesouro do jogo pode pagar, então as recompensas são definidas com base no crescimento do jogo, quanto mais o jogo cresce no mercado, mais os investidores ganham. Não há razão para incentivar os investidores a entrar com promessas de ganhos rápidos, devemos conquistar o mercado de jogos, não o mercado de apostas.
 
 ![](<../.gitbook/assets/image (25).png>)
 
 
 
-## Case study:
+## Estudo do caso:
 
-Imagine that you entered as an investor at the beginning of an MMORPG buying 10% of the game's assets (tokens and NFTs). An MMORPG that then had an annual revenue of $100,000,000 received that amount from entertainment alone (conservative value based on some famous games on the market without P2E model), value that was applied to the game token.
+Imagine que você entrou como investidor no início de um MMORPG comprando 10% dos ativos do jogo (tokens e NFTs). Um MMORPG que até então tinha uma receita anual de US$ 100.000.000 recebeu esse valor apenas do entretenimento (valor conservador baseado em alguns jogos famosos do mercado sem modelo P2E), valor que foi aplicado ao token do jogo.
 
 
 
