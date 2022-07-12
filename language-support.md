@@ -2,9 +2,9 @@
 
 **Idiomas​​ disponíveis até o momento (mais idiomas serão adicionados com o ​​tempo):**
 
-English
+Inglês
 
-Portuguese
+Português
 
-Japanese
+Japonês
 
