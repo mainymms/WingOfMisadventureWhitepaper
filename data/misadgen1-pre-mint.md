@@ -1,10 +1,10 @@
 # MISADGEN1 pre-mint
 
-O banco de dados do jogo foi preenchido em **13/05/2022** com os seguintes atributos para cada NFT:
+O banco de dados do jogo foi preenchido no dia **13/05/2022** com as seguintes informações para cada NFT:
 
 {% file src="../.gitbook/assets/immutable (1) (1).pdf" %}
 
-Generation code:
+Código gerado:
 
 ```
             List<NFT> nft_list = new List<NFT>();
